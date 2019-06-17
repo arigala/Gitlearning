@@ -1,5 +1,4 @@
-
- hello
+i hello
  hii
  this is lakshmi
 sunday is a holiday
@@ -19,4 +18,4 @@ kalyan
 
 
 today is a holiday
->>>>>>> Dev
+
